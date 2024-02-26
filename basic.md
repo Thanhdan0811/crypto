@@ -8,6 +8,12 @@
 - CEX : sàn tập trung
 - exchange : sàn giao dịch
 - IDO/IEO/ICO : Các hoạt động gọi vốn dành cho các nhà đầu tư, giá rẻ hơn so với lên sàn.
+  + IDO : Initial Dex Offering : Mở bán lần đầu trên sàn dex.
+  + IEO : Initial exchanges offering : Mở bán lần đầu trên sàn cex.
+  + ICO : Initial coin ofering : Mở bán coin lần đầu tiên.
+  + IGO : Initial game offering : Đợt phát hành token gaming lần đầu tiên.
+  + INO : Initial NFT Offering : Đợt phát hành NFT lần đầu tiền.
+  + 
 - KYC - Know your customer - Xác minh danh tính.
 - Bitcoin :
 - Block chain : sổ lưu trữ.
@@ -39,3 +45,17 @@
 - MM : Market Maker : ng điều khiển bảng điện, tạo định hưỡng cho nhà đầu tư.
 - Lending and Borrowing : Cho vay và thế chấp.
 - Crosschain / multichain : giải pháp chuyển giao các chain khác nhau. 
+- Total supply : Tổng cung hiện có.
+- Max supply : Tổng cung tối đa.
+- circulating supply : coin lưu hành.
+- MC = giá cả x số lượng lưu hành ; MC < 50M$ là low cap, 100M$ < MC < 1B$ là midcap
+- ATL : giá thấp nhấp.
+- LAUNCHPAD : nền tảng gọi vốn các dự án mới, hỗ trợ marketing : binance launchpad
+- Staking :
+- Burn : chuyển coin vào 1 ví ko thể truy cập để đẩy giá có lợi cho dài hạn.
+- AMA : Ask Me Anything.
+- CLIFF : khoảng cách giữa các lần trả token.
+- Vesting, Vesting period : Trả token theo dạng chia nhỏ.
+- FDV : Vốn hóa thị trường pha loãng hoàn toàn.= tổng số token tối đa của dự án x giá token tại thời điểm đó. hình dung đc qui mô dự án ở giai đoạn nào .
+- Fully Diluted Cap : Tùy vào cơ chế trả token, FDV sẽ ảnh hưởng đến giá token.
+- TESTNET / MAINNET : DỰ ÁN TRONG GIAI ĐOẠN chạy thử nghiệm hay chính thức.
