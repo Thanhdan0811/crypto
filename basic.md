@@ -59,3 +59,4 @@
 - FDV : Vốn hóa thị trường pha loãng hoàn toàn.= tổng số token tối đa của dự án x giá token tại thời điểm đó. hình dung đc qui mô dự án ở giai đoạn nào .
 - Fully Diluted Cap : Tùy vào cơ chế trả token, FDV sẽ ảnh hưởng đến giá token.
 - TESTNET / MAINNET : DỰ ÁN TRONG GIAI ĐOẠN chạy thử nghiệm hay chính thức.
+- GESFIPJFVRGPKPZTB6UY5X2EBWZJ2KXW
